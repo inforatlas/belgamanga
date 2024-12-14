@@ -141,6 +141,7 @@ footer{
     font-size: .6em;
     flex-wrap: nowrap;
     align-items: center;
+    text-align: center;
 }
 a.a{
     text-decoration: none;
