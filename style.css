@@ -10,7 +10,7 @@ html, body{
 div{
     display: flex;
     flex-direction: column;
-    min-height: 96vh;
+    min-height: 99vh;
 }
 header {
     background-color: #e94c04;
